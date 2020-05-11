@@ -18,6 +18,6 @@
       "url": "http://mss-nott-me:8082/RestAPI/EmbedDashboard?mTCall=getDetails&id=1589210471612&refresh=120",
       "duration": 60,
       "tabReloadIntervalSeconds": 60
-    },
+    }
   ]
 }
