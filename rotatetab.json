@@ -1,13 +1,13 @@
 {
   "settingsReloadIntervalMinutes": 1,
-  "fullscreen": false,
+  "fullscreen": true,
   "autoStart": false,
   "lazyLoadTabs": false,
   "websites": [
     {
-      "url": "https://www.patreon.com/kevdev",
-      "duration": 10,
-      "tabReloadIntervalSeconds": 15
+      "url": "https://threatmap.checkpoint.com/",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 60
     },
     {
       "url": "chrome-extension://pjgjpabbgnnoohijnillgbckikfkbjed/src/settings.html",
